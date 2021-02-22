@@ -1,0 +1,28 @@
+{
+  "name": "node-log",
+  "version": "1.0.0",
+  "description": "A simple logging library for console and file logs for each request.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samkgpt/node-log.git"
+  },
+  "author": "S.Gupta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samkgpt/node-log/issues"
+  },
+  "homepage": "https://github.com/samkgpt/node-log#readme",
+  "dependencies": {
+    "app-root-path": "^3.0.0",
+    "morgan": "^1.10.0",
+    "node-datetime": "^2.1.2",
+    "winston": "^3.3.3"
+  }
+}
