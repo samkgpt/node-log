@@ -12,10 +12,6 @@
   },
   "author": "S.Gupta",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/samkgpt/node-logger-global/issues"
-  },
-  "homepage": "https://github.com/samkgpt/node-logger-global#readme",
   "dependencies": {
     "app-root-path": "^3.0.0",
     "morgan": "^1.10.0",
