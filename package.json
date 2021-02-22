@@ -2,7 +2,7 @@
   "name": "node-log",
   "version": "1.0.0",
   "description": "A simple logging library for console and file logs for each request.",
-  "main": "index.js",
+  "main": "src/index.js",
   "directories": {
     "lib": "lib"
   },

@@ -1,7 +1,7 @@
 "use strict";
 
 const morgan = require("morgan");
-let winston = require("./lib");
+let winston = require("../lib");
 
 module.exports = () => {
   morgan.format(
