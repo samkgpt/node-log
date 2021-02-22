@@ -22,7 +22,7 @@ let logger = require("node-log");
 // On index.js or server.js file with express framework
 app.use( logger() );
 
-// or
+// or simply use
 logger();
 ```
 
