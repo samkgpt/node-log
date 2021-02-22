@@ -1,5 +1,5 @@
 {
-  "name": "node-log",
+  "name": "node-logger-global",
   "version": "1.0.0",
   "description": "A simple logging library for console and file logs for each request.",
   "main": "src/index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/samkgpt/node-log"
+    "url": "https://github.com/samkgpt/node-logger-global"
   },
   "author": "S.Gupta",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/samkgpt/node-log/issues"
+    "url": "https://github.com/samkgpt/node-logger-global/issues"
   },
-  "homepage": "https://github.com/samkgpt/node-log#readme",
+  "homepage": "https://github.com/samkgpt/node-logger-global#readme",
   "dependencies": {
     "app-root-path": "^3.0.0",
     "morgan": "^1.10.0",
