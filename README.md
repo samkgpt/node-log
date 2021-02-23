@@ -13,7 +13,7 @@ $ npm install node-logger-global
 ## Usage
 
 ```javascript
-let logger = require("node-logger-global");
+let logger = require( "node-logger-global" );
 ```
 
 ## Examples

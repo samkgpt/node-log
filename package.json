@@ -17,5 +17,13 @@
     "morgan": "^1.10.0",
     "node-datetime": "^2.1.2",
     "winston": "^3.3.3"
-  }
+  },
+  "keywords": [
+    "node",
+    "node-logger",
+    "file-logger",
+    "console-logger",
+    "morgan",
+    "winston"
+  ]
 }
