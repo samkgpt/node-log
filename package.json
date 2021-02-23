@@ -1,6 +1,6 @@
 {
   "name": "node-logger-global",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple logging library for console and file logs for each request.",
   "main": "src/index.js",
   "scripts": {
